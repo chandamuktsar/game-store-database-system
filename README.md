@@ -37,5 +37,5 @@ The goal of this project was to design a structured and normalized database that
 
 
 ## Database ERD
-![ERD](ERD.png)
+![ERD](ERD_image.png)
 
